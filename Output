@@ -1,0 +1,42 @@
+Enter number of new students to enroll: 
+2
+Enter student first name: Amit
+Enter student last name: Bhattacharya
+1 - Freshmen
+2 - for Sophmore
+3 - Junior
+4 - Senior
+Enter student class level: 1
+Enter course to enroll (Q to quit): Maths 101
+Enter course to enroll (Q to quit): Q
+Your balance is: $600
+Enter your payment: $
+500
+Thank you for your payment of $500
+Your balance is: $100
+Enter student first name: Imran
+Enter student last name: Khan
+1 - Freshmen
+2 - for Sophmore
+3 - Junior
+4 - Senior
+Enter student class level: 2
+Enter course to enroll (Q to quit): English
+Enter course to enroll (Q to quit): Q
+Your balance is: $600
+Enter your payment: $
+700
+Thank you for your payment of $700
+Your balance is: $-100
+Name: Amit Bhattacharya
+Grade Level: 1
+Student ID:11001
+Courses Enrolled:
+   Maths 101
+Balance: $100
+Name: Imran Khan
+Grade Level: 2
+Student ID:21002
+Courses Enrolled:
+   English
+Balance: $-100
